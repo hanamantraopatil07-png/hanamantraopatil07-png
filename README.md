@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=200&section=header&text=Hanamantrao%20Patil&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18" alt="header banner" />
 
 <a href="https://github.com/hanamantraopatil07-png">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+Developer;Building+pdpatil-jobs;Helping+people+find+%26+prep+for+jobs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=BE+Student;Python+Learner;Building+pdpatil-jobs;Helping+people+find+%26+prep+for+jobs" alt="Typing SVG" />
 </a>
 
 <br/>
