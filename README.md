@@ -19,7 +19,7 @@
 
 ```ts
 const hanamantrao = {
-  title: "Software Engineer",
+  title: "BE Student ",
   stack: ["Python"],
   launchedProjects: ["pdpatil-jobs"],
   certifications: [],
